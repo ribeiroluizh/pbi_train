@@ -1,1 +1,3 @@
-# pbi_train
+# Alguns gráficos em Power BI para treinar e cursos que fiz.
+
+
